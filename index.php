@@ -9,7 +9,7 @@
         <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Emblema+One|Marko+One"></link>
     </head>
     <body>
-    	<img src="imgs/fundo-construcao.jpg" id="full-screen">
+    	<img  id="full-screen">
 
             <div id="tx" align="center">
             	<img src="imgs/logo.png"></img>
